@@ -1,20 +1,18 @@
 # emojimix_dataset
 
-png dataset of emojimix.
+PNG format dataset of emojimix.
 
-e.g. ![](https://www.gstatic.com/android/keyboard/emojikitchen/20210521/u1fa84/u1fa84_u1f62e.png)
+e.g. 🥒+🎆 = <img src="https://www.gstatic.com/android/keyboard/emojikitchen/20230418/u1f386/u1f386_u1f952.png" width="48">
 
 ## data source: 
 
-[emoji-kitchen](https://github.com/xsalazar/emoji-kitchen)
+[Emoji Kitchen](https://emojikitchen.dev/)
 
 
-[emojipedia.org](https://emojipedia.org/emoji-kitchen)
+## total PNG number: 
 
-## png number: 
+106,756
 
-49,656
-
-## file name:
+## file name template:
 
 emoji1_emoji2.png
